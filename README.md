@@ -1,4 +1,4 @@
-# 🎯 Projeto ONG - Amigo Animal
+# 🎯 Projeto ONG - Amigo Animal (Entrega I)
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluído-green" alt="Status do Projeto: Concluído">
